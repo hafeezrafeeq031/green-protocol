@@ -1,0 +1,143 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar{
+  padding: 12px 10% 12px 10%; 
+  background-color: #008d38; 
+
+}
+
+.container1{
+  width: 100%;
+  height: 80vh;
+  background-color: #00ae47;
+}
+
+.image1{  
+    border-radius: 100px;
+    box-shadow: 0 0 10px #007000;
+    height: 160px;
+    width: 160px;
+}
+.heading{
+  padding: 80px 0px 35px  0px;
+}
+
+.lineing{
+  width: 120px;
+  padding: 0px 20px;
+}
+
+
+/* problem components */
+
+
+.Heading-2{
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  font-weight: 1200px;
+  color: #00ae47;
+  padding: 20px 0px;  
+  border-bottom :4px solid #84d1a6 ;
+  margin: 60px 120px;
+}
+
+
+.problem-cont{
+  margin: 60px 140px 60px ;  
+
+}
+
+.pera-1{
+  font-size: 1.8rem;
+}
+
+.problem-img{
+  width: 80rem;
+}
+
+
+/* solution components */
+
+.Solution-imag{
+  
+  padding: 70px 80px 0px 80px;
+  display: inline;
+  
+}
+
+
+.Solution-div{
+  width: 350px;
+  height: 330px;
+  background-color: #009f32;
+}
+
+.Solution-cont{
+  margin: 0px  140px 0px 140px ;  
+
+}
+
+.Solution-div2{
+  width: 350px;
+  height: 330px;
+  background-color: #00bf54;
+}
+
+/* ALL images */
+
+.images-div{
+  border: 4px solid #008d38 ;
+  padding: 5px;
+
+}
+
+.mar-top{
+  margin: 120px 0px 120px 0px;
+}
+
+.w-img{
+  width: 400px;
+}
+
+.Example-img{
+  width: 12rem; 
+
+}
+
+.Example-img-soler{
+  width: 15rem;
+
+}
+
+.p-img-8{
+  padding: 40px 0px 0px 0px;
+}
+
+.mt-20{
+  margin-top: 180px;
+}
+
+.p-pera-8{
+  padding: 20px 0px 40px 0px;
+}
+
+.container2{
+  width: 100%;
+  height: 90vh;
+  background-color: #00ae47;
+  margin-top: 120px;
+}
+
+.pt-20{
+  padding-top: 120px;
+}
