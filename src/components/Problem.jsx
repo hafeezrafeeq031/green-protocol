@@ -5,8 +5,6 @@ const Problem = () => {
   return (
     <>
 
-      {/* navbar flex justify-between items-center w-screen flex-wrap gap-2 p-6 px-6 text-stone-50 */}
-
       <div>
         <div className='Heading-2'>
           <h1 className=' text-5xl  font-bold'> Problem</h1>
