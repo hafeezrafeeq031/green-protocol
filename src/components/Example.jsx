@@ -39,7 +39,7 @@ const Example = () => {
                 <div className="problem-cont mt-20 flex-wrap flex justify-center ">
                     <div className="bg-stone-300 w-140 flex flex-col items-center gap-8">
                         <div> <img className="w-24 p-img-8" src={png8} alt="img" /></div>
-                        <div> <p className="p-pera-8 w-64 text-center text-3xl text-green-600">Buy NFT to help the environment and get passive income</p> </div>
+                        <div> <p className="p-pera-8 w-64 text-center text-3xl text-green-600">Buy NFT to Help the environment and get passive income</p> </div>
                     </div>
 
                     <div className="bg-green-600 w-140 flex flex-col items-center gap-8">
