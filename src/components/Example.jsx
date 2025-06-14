@@ -44,7 +44,7 @@ const Example = () => {
 
                     <div className="bg-green-600 w-140 flex flex-col items-center gap-8">
                         <div> <img className="w-24 p-img-8" src={png9} alt="img" /></div>
-                        <div> <p className="p-pera-8 w-64 text-center text-3xl text-stone-50">Advantage:Resale the ownership Borrow Generate profit</p> </div>
+                        <div> <p className="p-pera-8 w-64 text-center text-3xl text-stone-50">Advantage:Resale the Ownership Borrow Generate profit</p> </div>
                     </div>
                     
                 </div>
