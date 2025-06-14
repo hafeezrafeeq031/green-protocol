@@ -1,5 +1,6 @@
 // import react, {useState} from "react";
-import "./app.css"
+
+import "./App.css";
 import Header from "./components/Header";
 import Problem from "./components/Problem";
 import Solution from "./components/Solution";
